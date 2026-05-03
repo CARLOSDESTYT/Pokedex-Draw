@@ -1,0 +1,41 @@
+{% load static %}
+
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+
+<div class="pokemon-card">
+    
+    <div class="screen-frame">
+        <div class="screen-display">
+            <span class="pokemon-number">#{{ pokemon.numero|stringformat:"04d" }}</span>
+            {% if pokemon.img_path %}
+                <img src="{% static pokemon.img_path %}" alt="{{ pokemon.nombre }}" width="220">
+            {% endif %}
+        </div>
+    </div>
+    
+    <h2 style="text-transform: capitalize;">{{ parte|cut:"_" }}</h2>
+    <h2 class="pokemon-name" style="text-align: center; margin: 10px 0;">{{ pokemon.nombre }}</h2>
+    <p class="pokemon-types" style="text-align: center;">{{ pokemon.tipos }}</p>
+
+    <div class="controls-area">
+        <div class="minimal-dpad"></div>
+        <div class="minimal-buttons">
+            <a class="min-btn" href="{% url 'pokemon' %}?tipo={{ tipo }}&index={{ prev_index }}&seed={{ seed }}">B</a>
+            <a class="min-btn" href="{% url 'pokemon' %}?tipo={{ tipo }}&index={{ next_index }}&seed={{ seed }}">A</a>
+        </div>
+    </div>
+
+    <div class="system-buttons">
+        <div class="btn-pill" data-label="select">
+            <a href="{% url 'index' %}"></a>
+        </div>
+        <div class="btn-pill" data-label="start">
+            <a href="{% url 'pokemon' %}?tipo={{ tipo }}"></a>
+        </div>
+    </div>
+</div>

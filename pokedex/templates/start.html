@@ -1,0 +1,54 @@
+{% load static %}
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <title>GBC Aesthetic Pokedex</title>
+</head>
+<body>
+
+    <div class="pokemon-card">
+        <form method="GET" action="." style="margin-bottom: 15px;">
+            <select name="tipo" onchange="this.form.submit()" class="aesthetic-select">
+                {% for t in tipos_lista %}
+                    <option value="{{ t }}" {% if tipo_actual == t %}selected{% endif %}>{{ t|upper }}</option>
+                {% endfor %}
+            </select>
+            <input type="hidden" name="index" value="0">
+        </form>
+        
+        <div class="screen-frame">
+            <div class="screen-display">
+                <span class="pokemon-number">{{ parte_actual.parte_tag|upper }}</span>
+                
+                <img src="{% static parte_actual.img %}" alt="{{ parte_actual.nombre }}" width="220">
+                
+                <h2 class="pokemon-name">{{ parte_actual.nombre }}</h2>
+                <p class="pokemon-types">{{ parte_actual.tipo }}</p>
+            </div>
+        </div>
+
+        <div class="controls-area">
+            <div class="minimal-dpad"></div>
+            <div class="minimal-buttons">
+                <a href="?tipo={{ tipo_actual }}&index={{ prev_index }}&seed={{ seed }}" class="min-btn" style="text-decoration:none;">B</a>
+                
+                <a href="?tipo={{ tipo_actual }}&index={{ next_index }}&seed={{ seed }}" class="min-btn" style="text-decoration:none;">A</a>
+            </div>
+        </div>
+
+        <div class="system-buttons">
+            <div class="btn-pill" data-label="select"></div>
+            <a href="?tipo={{ tipo_actual }}&index=0" class="btn-pill" data-label="start"></a>
+        </div>
+    </div>
+
+</body>
+</html>

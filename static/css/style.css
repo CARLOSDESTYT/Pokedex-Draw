@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+
+body {
+    background-color: #e0e0e0; /* Un gris neutro de fondo */
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* El cuerpo de la consola: limpio pero con forma */
+.pokemon-card {
+    background-color: #ffffff;
+    width: 320px;
+    padding: 25px;
+    border-radius: 15px 15px 60px 15px; /* Curva icónica inferior derecha */
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    border: 1px solid #d0d0d0;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Marco de la pantalla: sutil pero presente */
+.screen-frame {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 25px;
+    border: 1px solid #dcdcdc;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.05); /* Efecto hundido */
+}
+
+/* La pantalla LCD retro */
+.screen-display {
+    background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); /* Degradado aesthetic */
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    border: 2px solid #b8a4d9; /* Borde suave */
+    color: #4a4a4a;
+    image-rendering: pixelated;
+    position: relative;
+    box-shadow: inset 0 0 15px rgba(255,255,255,0.5);
+}
+
+/* El número ahora en un tono que combine */
+.pokemon-number {
+    font-family: 'VT323', monospace;
+    font-size: 1.2rem;
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    color: #5d2d91;
+    opacity: 0.7;
+}
+
+/* Botones Select y Start minimalistas */
+.system-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.btn-pill {
+    width: 35px;
+    height: 8px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    transform: rotate(-15deg);
+    position: relative;
+    transition: background 0.3s;
+}
+
+.btn-pill a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-pill button {
+    all: unset;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+/* Etiqueta pequeña debajo de los botones */
+.btn-pill::after {
+    content: attr(data-label);
+    position: absolute;
+    top: 12px;
+    left: 0;
+    width: 100%;
+    font-size: 0.5rem;
+    text-align: center;
+    color: #aaa;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+/* Tipo de Pokémon: Estilo etiqueta limpia */
+.pokemon-types {
+    font-size: 0.8rem;
+    color: #666;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Área de controles minimalistas */
+.controls-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0 10px;
+}
+
+/* D-Pad geométrico y limpio */
+.minimal-dpad {
+    width: 60px;
+    height: 60px;
+    background-color: #e0e0e0;
+    position: relative;
+    border-radius: 4px;
+}
+
+/* Cruz visual */
+.minimal-dpad::before,
+.minimal-dpad::after {
+    content: "";
+    position: absolute;
+    background-color: #333;
+    border-radius: 2px;
+}
+
+/* vertical */
+.minimal-dpad::before {
+    top: 0;
+    left: 20px;
+    width: 20px;
+    height: 60px;
+}
+
+/* horizontal */
+.minimal-dpad::after {
+    top: 20px;
+    left: 0;
+    width: 60px;
+    height: 20px;
+}
+
+/* 🔥 BOTONES INVISIBLES */
+.dpad-btn {
+    position: absolute;
+    z-index: 2;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+/* direcciones */
+.up {
+    top: 0;
+    left: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.down {
+    bottom: 0;
+    left: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.left {
+    bottom: 20;
+    left: 0;
+    width: 20px;
+    height: 20px;
+}
+
+.right {
+    top: 20;
+    right: 0;
+    width: 20px;
+    height: 20px;
+}
+
+/* Botones A y B minimalistas */
+.minimal-buttons {
+    display: flex;
+    gap: 15px;
+    transform: rotate(-15deg); /* Inclinación icónica */
+}
+
+.min-btn {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    border: 2px solid #d0d0d0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #5d2d91; /* El toque de color morado GBC */
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+
+.min-btn a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* Estilos para el menú dentro de la pantalla */
+.menu-display {
+    justify-content: flex-start !important;
+    padding: 20px 10px;
+    overflow-y: auto; /* Por si hay muchos tipos */
+}
+
+.menu-title {
+    font-family: 'VT323', monospace;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #5d2d91;
+    border-bottom: 2px solid #5d2d91;
+}
+
+.menu-options {
+    display: grid;
+    grid-template-columns: repeat(2, 5fr); /* 2 columnas iguales */
+    gap: 5px; /* espacio entre elementos */
+}
+
+.menu-item {
+    font-family: 'VT323', monospace;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+    padding: 5px 10px;
+    transition: background 0.2s;
+    text-align: left;
+}
+
+.menu-item:hover {
+    background-color: rgba(93, 45, 145, 0.2);
+    color: #5d2d91;
+}
+
+/* Scrollbar minimalista para la pantalla */
+.menu-display::-webkit-scrollbar {
+    width: 4px;
+}
+.menu-display::-webkit-scrollbar-thumb {
+    background: #b8a4d9;
+}
+
+.menu-item input:checked + span,
+.menu-item:has(input:checked) {
+    background-color: rgba(93, 45, 145, 0.2);
+    color: #5d2d91;
+}

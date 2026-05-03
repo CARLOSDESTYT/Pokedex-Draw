@@ -1,0 +1,55 @@
+{% load static %}
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<div class="pokemon-card">
+    <div class="screen-frame">
+        <div class="screen-display menu-display">
+            <h3 class="menu-title">SELECCIONAR TIPO</h3>
+            <form id="tipo-form" method="GET" action="{% url 'pokemon' %}">
+                <div class="menu-options">
+
+                    {% for tipo in tipos %}
+                    <label class="menu-item">
+                        <input type="radio" name="tipo" value="{{ tipo }}"
+                            {% if tipo == tipo_seleccionado %}checked{% endif %} hidden>
+                        {{ tipo }}
+                    </label>
+                    {% endfor %}
+                
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+    <div class="controls-area">
+        <form method="GET" action="{% url 'index' %}">
+            <!-- Mantener tipo actual -->
+            <input type="hidden" name="tipo" value="{{ tipo_seleccionado }}">
+            <div class="minimal-dpad">
+                <button name="nav" value="up" class="dpad-btn up"></button>
+                <button name="nav" value="down" class="dpad-btn down"></button>
+                <button name="nav" value="left" class="dpad-btn left"></button>
+                <button name="nav" value="right" class="dpad-btn right"></button>
+            </div>
+
+        </form>
+
+        <div class="minimal-buttons">
+            <div class="min-btn">B</div>
+            <div class="min-btn">A</div>
+        </div>
+    </div>
+
+    <div class="system-buttons">
+        <div class="btn-pill" data-label="select">
+            <a href="{% url 'index' %}"></a>
+        </div>
+        <div class="btn-pill" data-label="start">
+            <button type="submit" form="tipo-form"></button>
+        </div>
+    </div>
+</div>

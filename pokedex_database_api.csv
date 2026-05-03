@@ -1,0 +1,1026 @@
+N.°,Nombre,Tipos,IMG
+0001,Bulbasaur,"Grass, Poison",pokemon_images/0001_Bulbasaur.png
+0002,Ivysaur,"Grass, Poison",pokemon_images/0002_Ivysaur.png
+0003,Venusaur,"Grass, Poison",pokemon_images/0003_Venusaur.png
+0004,Charmander,Fire,pokemon_images/0004_Charmander.png
+0005,Charmeleon,Fire,pokemon_images/0005_Charmeleon.png
+0006,Charizard,"Fire, Flying",pokemon_images/0006_Charizard.png
+0007,Squirtle,Water,pokemon_images/0007_Squirtle.png
+0008,Wartortle,Water,pokemon_images/0008_Wartortle.png
+0009,Blastoise,Water,pokemon_images/0009_Blastoise.png
+0010,Caterpie,Bug,pokemon_images/0010_Caterpie.png
+0011,Metapod,Bug,pokemon_images/0011_Metapod.png
+0012,Butterfree,"Bug, Flying",pokemon_images/0012_Butterfree.png
+0013,Weedle,"Bug, Poison",pokemon_images/0013_Weedle.png
+0014,Kakuna,"Bug, Poison",pokemon_images/0014_Kakuna.png
+0015,Beedrill,"Bug, Poison",pokemon_images/0015_Beedrill.png
+0016,Pidgey,"Normal, Flying",pokemon_images/0016_Pidgey.png
+0017,Pidgeotto,"Normal, Flying",pokemon_images/0017_Pidgeotto.png
+0018,Pidgeot,"Normal, Flying",pokemon_images/0018_Pidgeot.png
+0019,Rattata,Normal,pokemon_images/0019_Rattata.png
+0020,Raticate,Normal,pokemon_images/0020_Raticate.png
+0021,Spearow,"Normal, Flying",pokemon_images/0021_Spearow.png
+0022,Fearow,"Normal, Flying",pokemon_images/0022_Fearow.png
+0023,Ekans,Poison,pokemon_images/0023_Ekans.png
+0024,Arbok,Poison,pokemon_images/0024_Arbok.png
+0025,Pikachu,Electric,pokemon_images/0025_Pikachu.png
+0026,Raichu,Electric,pokemon_images/0026_Raichu.png
+0027,Sandshrew,Ground,pokemon_images/0027_Sandshrew.png
+0028,Sandslash,Ground,pokemon_images/0028_Sandslash.png
+0029,Nidoran-f,Poison,pokemon_images/0029_Nidoran-f.png
+0030,Nidorina,Poison,pokemon_images/0030_Nidorina.png
+0031,Nidoqueen,"Poison, Ground",pokemon_images/0031_Nidoqueen.png
+0032,Nidoran-m,Poison,pokemon_images/0032_Nidoran-m.png
+0033,Nidorino,Poison,pokemon_images/0033_Nidorino.png
+0034,Nidoking,"Poison, Ground",pokemon_images/0034_Nidoking.png
+0035,Clefairy,Fairy,pokemon_images/0035_Clefairy.png
+0036,Clefable,Fairy,pokemon_images/0036_Clefable.png
+0037,Vulpix,Fire,pokemon_images/0037_Vulpix.png
+0038,Ninetales,Fire,pokemon_images/0038_Ninetales.png
+0039,Jigglypuff,"Normal, Fairy",pokemon_images/0039_Jigglypuff.png
+0040,Wigglytuff,"Normal, Fairy",pokemon_images/0040_Wigglytuff.png
+0041,Zubat,"Poison, Flying",pokemon_images/0041_Zubat.png
+0042,Golbat,"Poison, Flying",pokemon_images/0042_Golbat.png
+0043,Oddish,"Grass, Poison",pokemon_images/0043_Oddish.png
+0044,Gloom,"Grass, Poison",pokemon_images/0044_Gloom.png
+0045,Vileplume,"Grass, Poison",pokemon_images/0045_Vileplume.png
+0046,Paras,"Bug, Grass",pokemon_images/0046_Paras.png
+0047,Parasect,"Bug, Grass",pokemon_images/0047_Parasect.png
+0048,Venonat,"Bug, Poison",pokemon_images/0048_Venonat.png
+0049,Venomoth,"Bug, Poison",pokemon_images/0049_Venomoth.png
+0050,Diglett,Ground,pokemon_images/0050_Diglett.png
+0051,Dugtrio,Ground,pokemon_images/0051_Dugtrio.png
+0052,Meowth,Normal,pokemon_images/0052_Meowth.png
+0053,Persian,Normal,pokemon_images/0053_Persian.png
+0054,Psyduck,Water,pokemon_images/0054_Psyduck.png
+0055,Golduck,Water,pokemon_images/0055_Golduck.png
+0056,Mankey,Fighting,pokemon_images/0056_Mankey.png
+0057,Primeape,Fighting,pokemon_images/0057_Primeape.png
+0058,Growlithe,Fire,pokemon_images/0058_Growlithe.png
+0059,Arcanine,Fire,pokemon_images/0059_Arcanine.png
+0060,Poliwag,Water,pokemon_images/0060_Poliwag.png
+0061,Poliwhirl,Water,pokemon_images/0061_Poliwhirl.png
+0062,Poliwrath,"Water, Fighting",pokemon_images/0062_Poliwrath.png
+0063,Abra,Psychic,pokemon_images/0063_Abra.png
+0064,Kadabra,Psychic,pokemon_images/0064_Kadabra.png
+0065,Alakazam,Psychic,pokemon_images/0065_Alakazam.png
+0066,Machop,Fighting,pokemon_images/0066_Machop.png
+0067,Machoke,Fighting,pokemon_images/0067_Machoke.png
+0068,Machamp,Fighting,pokemon_images/0068_Machamp.png
+0069,Bellsprout,"Grass, Poison",pokemon_images/0069_Bellsprout.png
+0070,Weepinbell,"Grass, Poison",pokemon_images/0070_Weepinbell.png
+0071,Victreebel,"Grass, Poison",pokemon_images/0071_Victreebel.png
+0072,Tentacool,"Water, Poison",pokemon_images/0072_Tentacool.png
+0073,Tentacruel,"Water, Poison",pokemon_images/0073_Tentacruel.png
+0074,Geodude,"Rock, Ground",pokemon_images/0074_Geodude.png
+0075,Graveler,"Rock, Ground",pokemon_images/0075_Graveler.png
+0076,Golem,"Rock, Ground",pokemon_images/0076_Golem.png
+0077,Ponyta,Fire,pokemon_images/0077_Ponyta.png
+0078,Rapidash,Fire,pokemon_images/0078_Rapidash.png
+0079,Slowpoke,"Water, Psychic",pokemon_images/0079_Slowpoke.png
+0080,Slowbro,"Water, Psychic",pokemon_images/0080_Slowbro.png
+0081,Magnemite,"Electric, Steel",pokemon_images/0081_Magnemite.png
+0082,Magneton,"Electric, Steel",pokemon_images/0082_Magneton.png
+0083,Farfetchd,"Normal, Flying",pokemon_images/0083_Farfetchd.png
+0084,Doduo,"Normal, Flying",pokemon_images/0084_Doduo.png
+0085,Dodrio,"Normal, Flying",pokemon_images/0085_Dodrio.png
+0086,Seel,Water,pokemon_images/0086_Seel.png
+0087,Dewgong,"Water, Ice",pokemon_images/0087_Dewgong.png
+0088,Grimer,Poison,pokemon_images/0088_Grimer.png
+0089,Muk,Poison,pokemon_images/0089_Muk.png
+0090,Shellder,Water,pokemon_images/0090_Shellder.png
+0091,Cloyster,"Water, Ice",pokemon_images/0091_Cloyster.png
+0092,Gastly,"Ghost, Poison",pokemon_images/0092_Gastly.png
+0093,Haunter,"Ghost, Poison",pokemon_images/0093_Haunter.png
+0094,Gengar,"Ghost, Poison",pokemon_images/0094_Gengar.png
+0095,Onix,"Rock, Ground",pokemon_images/0095_Onix.png
+0096,Drowzee,Psychic,pokemon_images/0096_Drowzee.png
+0097,Hypno,Psychic,pokemon_images/0097_Hypno.png
+0098,Krabby,Water,pokemon_images/0098_Krabby.png
+0099,Kingler,Water,pokemon_images/0099_Kingler.png
+0100,Voltorb,Electric,pokemon_images/0100_Voltorb.png
+0101,Electrode,Electric,pokemon_images/0101_Electrode.png
+0102,Exeggcute,"Grass, Psychic",pokemon_images/0102_Exeggcute.png
+0103,Exeggutor,"Grass, Psychic",pokemon_images/0103_Exeggutor.png
+0104,Cubone,Ground,pokemon_images/0104_Cubone.png
+0105,Marowak,Ground,pokemon_images/0105_Marowak.png
+0106,Hitmonlee,Fighting,pokemon_images/0106_Hitmonlee.png
+0107,Hitmonchan,Fighting,pokemon_images/0107_Hitmonchan.png
+0108,Lickitung,Normal,pokemon_images/0108_Lickitung.png
+0109,Koffing,Poison,pokemon_images/0109_Koffing.png
+0110,Weezing,Poison,pokemon_images/0110_Weezing.png
+0111,Rhyhorn,"Ground, Rock",pokemon_images/0111_Rhyhorn.png
+0112,Rhydon,"Ground, Rock",pokemon_images/0112_Rhydon.png
+0113,Chansey,Normal,pokemon_images/0113_Chansey.png
+0114,Tangela,Grass,pokemon_images/0114_Tangela.png
+0115,Kangaskhan,Normal,pokemon_images/0115_Kangaskhan.png
+0116,Horsea,Water,pokemon_images/0116_Horsea.png
+0117,Seadra,Water,pokemon_images/0117_Seadra.png
+0118,Goldeen,Water,pokemon_images/0118_Goldeen.png
+0119,Seaking,Water,pokemon_images/0119_Seaking.png
+0120,Staryu,Water,pokemon_images/0120_Staryu.png
+0121,Starmie,"Water, Psychic",pokemon_images/0121_Starmie.png
+0122,Mr-mime,"Psychic, Fairy",pokemon_images/0122_Mr-mime.png
+0123,Scyther,"Bug, Flying",pokemon_images/0123_Scyther.png
+0124,Jynx,"Ice, Psychic",pokemon_images/0124_Jynx.png
+0125,Electabuzz,Electric,pokemon_images/0125_Electabuzz.png
+0126,Magmar,Fire,pokemon_images/0126_Magmar.png
+0127,Pinsir,Bug,pokemon_images/0127_Pinsir.png
+0128,Tauros,Normal,pokemon_images/0128_Tauros.png
+0129,Magikarp,Water,pokemon_images/0129_Magikarp.png
+0130,Gyarados,"Water, Flying",pokemon_images/0130_Gyarados.png
+0131,Lapras,"Water, Ice",pokemon_images/0131_Lapras.png
+0132,Ditto,Normal,pokemon_images/0132_Ditto.png
+0133,Eevee,Normal,pokemon_images/0133_Eevee.png
+0134,Vaporeon,Water,pokemon_images/0134_Vaporeon.png
+0135,Jolteon,Electric,pokemon_images/0135_Jolteon.png
+0136,Flareon,Fire,pokemon_images/0136_Flareon.png
+0137,Porygon,Normal,pokemon_images/0137_Porygon.png
+0138,Omanyte,"Rock, Water",pokemon_images/0138_Omanyte.png
+0139,Omastar,"Rock, Water",pokemon_images/0139_Omastar.png
+0140,Kabuto,"Rock, Water",pokemon_images/0140_Kabuto.png
+0141,Kabutops,"Rock, Water",pokemon_images/0141_Kabutops.png
+0142,Aerodactyl,"Rock, Flying",pokemon_images/0142_Aerodactyl.png
+0143,Snorlax,Normal,pokemon_images/0143_Snorlax.png
+0144,Articuno,"Ice, Flying",pokemon_images/0144_Articuno.png
+0145,Zapdos,"Electric, Flying",pokemon_images/0145_Zapdos.png
+0146,Moltres,"Fire, Flying",pokemon_images/0146_Moltres.png
+0147,Dratini,Dragon,pokemon_images/0147_Dratini.png
+0148,Dragonair,Dragon,pokemon_images/0148_Dragonair.png
+0149,Dragonite,"Dragon, Flying",pokemon_images/0149_Dragonite.png
+0150,Mewtwo,Psychic,pokemon_images/0150_Mewtwo.png
+0151,Mew,Psychic,pokemon_images/0151_Mew.png
+0152,Chikorita,Grass,pokemon_images/0152_Chikorita.png
+0153,Bayleef,Grass,pokemon_images/0153_Bayleef.png
+0154,Meganium,Grass,pokemon_images/0154_Meganium.png
+0155,Cyndaquil,Fire,pokemon_images/0155_Cyndaquil.png
+0156,Quilava,Fire,pokemon_images/0156_Quilava.png
+0157,Typhlosion,Fire,pokemon_images/0157_Typhlosion.png
+0158,Totodile,Water,pokemon_images/0158_Totodile.png
+0159,Croconaw,Water,pokemon_images/0159_Croconaw.png
+0160,Feraligatr,Water,pokemon_images/0160_Feraligatr.png
+0161,Sentret,Normal,pokemon_images/0161_Sentret.png
+0162,Furret,Normal,pokemon_images/0162_Furret.png
+0163,Hoothoot,"Normal, Flying",pokemon_images/0163_Hoothoot.png
+0164,Noctowl,"Normal, Flying",pokemon_images/0164_Noctowl.png
+0165,Ledyba,"Bug, Flying",pokemon_images/0165_Ledyba.png
+0166,Ledian,"Bug, Flying",pokemon_images/0166_Ledian.png
+0167,Spinarak,"Bug, Poison",pokemon_images/0167_Spinarak.png
+0168,Ariados,"Bug, Poison",pokemon_images/0168_Ariados.png
+0169,Crobat,"Poison, Flying",pokemon_images/0169_Crobat.png
+0170,Chinchou,"Water, Electric",pokemon_images/0170_Chinchou.png
+0171,Lanturn,"Water, Electric",pokemon_images/0171_Lanturn.png
+0172,Pichu,Electric,pokemon_images/0172_Pichu.png
+0173,Cleffa,Fairy,pokemon_images/0173_Cleffa.png
+0174,Igglybuff,"Normal, Fairy",pokemon_images/0174_Igglybuff.png
+0175,Togepi,Fairy,pokemon_images/0175_Togepi.png
+0176,Togetic,"Fairy, Flying",pokemon_images/0176_Togetic.png
+0177,Natu,"Psychic, Flying",pokemon_images/0177_Natu.png
+0178,Xatu,"Psychic, Flying",pokemon_images/0178_Xatu.png
+0179,Mareep,Electric,pokemon_images/0179_Mareep.png
+0180,Flaaffy,Electric,pokemon_images/0180_Flaaffy.png
+0181,Ampharos,Electric,pokemon_images/0181_Ampharos.png
+0182,Bellossom,Grass,pokemon_images/0182_Bellossom.png
+0183,Marill,"Water, Fairy",pokemon_images/0183_Marill.png
+0184,Azumarill,"Water, Fairy",pokemon_images/0184_Azumarill.png
+0185,Sudowoodo,Rock,pokemon_images/0185_Sudowoodo.png
+0186,Politoed,Water,pokemon_images/0186_Politoed.png
+0187,Hoppip,"Grass, Flying",pokemon_images/0187_Hoppip.png
+0188,Skiploom,"Grass, Flying",pokemon_images/0188_Skiploom.png
+0189,Jumpluff,"Grass, Flying",pokemon_images/0189_Jumpluff.png
+0190,Aipom,Normal,pokemon_images/0190_Aipom.png
+0191,Sunkern,Grass,pokemon_images/0191_Sunkern.png
+0192,Sunflora,Grass,pokemon_images/0192_Sunflora.png
+0193,Yanma,"Bug, Flying",pokemon_images/0193_Yanma.png
+0194,Wooper,"Water, Ground",pokemon_images/0194_Wooper.png
+0195,Quagsire,"Water, Ground",pokemon_images/0195_Quagsire.png
+0196,Espeon,Psychic,pokemon_images/0196_Espeon.png
+0197,Umbreon,Dark,pokemon_images/0197_Umbreon.png
+0198,Murkrow,"Dark, Flying",pokemon_images/0198_Murkrow.png
+0199,Slowking,"Water, Psychic",pokemon_images/0199_Slowking.png
+0200,Misdreavus,Ghost,pokemon_images/0200_Misdreavus.png
+0201,Unown,Psychic,pokemon_images/0201_Unown.png
+0202,Wobbuffet,Psychic,pokemon_images/0202_Wobbuffet.png
+0203,Girafarig,"Normal, Psychic",pokemon_images/0203_Girafarig.png
+0204,Pineco,Bug,pokemon_images/0204_Pineco.png
+0205,Forretress,"Bug, Steel",pokemon_images/0205_Forretress.png
+0206,Dunsparce,Normal,pokemon_images/0206_Dunsparce.png
+0207,Gligar,"Ground, Flying",pokemon_images/0207_Gligar.png
+0208,Steelix,"Steel, Ground",pokemon_images/0208_Steelix.png
+0209,Snubbull,Fairy,pokemon_images/0209_Snubbull.png
+0210,Granbull,Fairy,pokemon_images/0210_Granbull.png
+0211,Qwilfish,"Water, Poison",pokemon_images/0211_Qwilfish.png
+0212,Scizor,"Bug, Steel",pokemon_images/0212_Scizor.png
+0213,Shuckle,"Bug, Rock",pokemon_images/0213_Shuckle.png
+0214,Heracross,"Bug, Fighting",pokemon_images/0214_Heracross.png
+0215,Sneasel,"Dark, Ice",pokemon_images/0215_Sneasel.png
+0216,Teddiursa,Normal,pokemon_images/0216_Teddiursa.png
+0217,Ursaring,Normal,pokemon_images/0217_Ursaring.png
+0218,Slugma,Fire,pokemon_images/0218_Slugma.png
+0219,Magcargo,"Fire, Rock",pokemon_images/0219_Magcargo.png
+0220,Swinub,"Ice, Ground",pokemon_images/0220_Swinub.png
+0221,Piloswine,"Ice, Ground",pokemon_images/0221_Piloswine.png
+0222,Corsola,"Water, Rock",pokemon_images/0222_Corsola.png
+0223,Remoraid,Water,pokemon_images/0223_Remoraid.png
+0224,Octillery,Water,pokemon_images/0224_Octillery.png
+0225,Delibird,"Ice, Flying",pokemon_images/0225_Delibird.png
+0226,Mantine,"Water, Flying",pokemon_images/0226_Mantine.png
+0227,Skarmory,"Steel, Flying",pokemon_images/0227_Skarmory.png
+0228,Houndour,"Dark, Fire",pokemon_images/0228_Houndour.png
+0229,Houndoom,"Dark, Fire",pokemon_images/0229_Houndoom.png
+0230,Kingdra,"Water, Dragon",pokemon_images/0230_Kingdra.png
+0231,Phanpy,Ground,pokemon_images/0231_Phanpy.png
+0232,Donphan,Ground,pokemon_images/0232_Donphan.png
+0233,Porygon2,Normal,pokemon_images/0233_Porygon2.png
+0234,Stantler,Normal,pokemon_images/0234_Stantler.png
+0235,Smeargle,Normal,pokemon_images/0235_Smeargle.png
+0236,Tyrogue,Fighting,pokemon_images/0236_Tyrogue.png
+0237,Hitmontop,Fighting,pokemon_images/0237_Hitmontop.png
+0238,Smoochum,"Ice, Psychic",pokemon_images/0238_Smoochum.png
+0239,Elekid,Electric,pokemon_images/0239_Elekid.png
+0240,Magby,Fire,pokemon_images/0240_Magby.png
+0241,Miltank,Normal,pokemon_images/0241_Miltank.png
+0242,Blissey,Normal,pokemon_images/0242_Blissey.png
+0243,Raikou,Electric,pokemon_images/0243_Raikou.png
+0244,Entei,Fire,pokemon_images/0244_Entei.png
+0245,Suicune,Water,pokemon_images/0245_Suicune.png
+0246,Larvitar,"Rock, Ground",pokemon_images/0246_Larvitar.png
+0247,Pupitar,"Rock, Ground",pokemon_images/0247_Pupitar.png
+0248,Tyranitar,"Rock, Dark",pokemon_images/0248_Tyranitar.png
+0249,Lugia,"Psychic, Flying",pokemon_images/0249_Lugia.png
+0250,Ho-oh,"Fire, Flying",pokemon_images/0250_Ho-oh.png
+0251,Celebi,"Psychic, Grass",pokemon_images/0251_Celebi.png
+0252,Treecko,Grass,pokemon_images/0252_Treecko.png
+0253,Grovyle,Grass,pokemon_images/0253_Grovyle.png
+0254,Sceptile,Grass,pokemon_images/0254_Sceptile.png
+0255,Torchic,Fire,pokemon_images/0255_Torchic.png
+0256,Combusken,"Fire, Fighting",pokemon_images/0256_Combusken.png
+0257,Blaziken,"Fire, Fighting",pokemon_images/0257_Blaziken.png
+0258,Mudkip,Water,pokemon_images/0258_Mudkip.png
+0259,Marshtomp,"Water, Ground",pokemon_images/0259_Marshtomp.png
+0260,Swampert,"Water, Ground",pokemon_images/0260_Swampert.png
+0261,Poochyena,Dark,pokemon_images/0261_Poochyena.png
+0262,Mightyena,Dark,pokemon_images/0262_Mightyena.png
+0263,Zigzagoon,Normal,pokemon_images/0263_Zigzagoon.png
+0264,Linoone,Normal,pokemon_images/0264_Linoone.png
+0265,Wurmple,Bug,pokemon_images/0265_Wurmple.png
+0266,Silcoon,Bug,pokemon_images/0266_Silcoon.png
+0267,Beautifly,"Bug, Flying",pokemon_images/0267_Beautifly.png
+0268,Cascoon,Bug,pokemon_images/0268_Cascoon.png
+0269,Dustox,"Bug, Poison",pokemon_images/0269_Dustox.png
+0270,Lotad,"Water, Grass",pokemon_images/0270_Lotad.png
+0271,Lombre,"Water, Grass",pokemon_images/0271_Lombre.png
+0272,Ludicolo,"Water, Grass",pokemon_images/0272_Ludicolo.png
+0273,Seedot,Grass,pokemon_images/0273_Seedot.png
+0274,Nuzleaf,"Grass, Dark",pokemon_images/0274_Nuzleaf.png
+0275,Shiftry,"Grass, Dark",pokemon_images/0275_Shiftry.png
+0276,Taillow,"Normal, Flying",pokemon_images/0276_Taillow.png
+0277,Swellow,"Normal, Flying",pokemon_images/0277_Swellow.png
+0278,Wingull,"Water, Flying",pokemon_images/0278_Wingull.png
+0279,Pelipper,"Water, Flying",pokemon_images/0279_Pelipper.png
+0280,Ralts,"Psychic, Fairy",pokemon_images/0280_Ralts.png
+0281,Kirlia,"Psychic, Fairy",pokemon_images/0281_Kirlia.png
+0282,Gardevoir,"Psychic, Fairy",pokemon_images/0282_Gardevoir.png
+0283,Surskit,"Bug, Water",pokemon_images/0283_Surskit.png
+0284,Masquerain,"Bug, Flying",pokemon_images/0284_Masquerain.png
+0285,Shroomish,Grass,pokemon_images/0285_Shroomish.png
+0286,Breloom,"Grass, Fighting",pokemon_images/0286_Breloom.png
+0287,Slakoth,Normal,pokemon_images/0287_Slakoth.png
+0288,Vigoroth,Normal,pokemon_images/0288_Vigoroth.png
+0289,Slaking,Normal,pokemon_images/0289_Slaking.png
+0290,Nincada,"Bug, Ground",pokemon_images/0290_Nincada.png
+0291,Ninjask,"Bug, Flying",pokemon_images/0291_Ninjask.png
+0292,Shedinja,"Bug, Ghost",pokemon_images/0292_Shedinja.png
+0293,Whismur,Normal,pokemon_images/0293_Whismur.png
+0294,Loudred,Normal,pokemon_images/0294_Loudred.png
+0295,Exploud,Normal,pokemon_images/0295_Exploud.png
+0296,Makuhita,Fighting,pokemon_images/0296_Makuhita.png
+0297,Hariyama,Fighting,pokemon_images/0297_Hariyama.png
+0298,Azurill,"Normal, Fairy",pokemon_images/0298_Azurill.png
+0299,Nosepass,Rock,pokemon_images/0299_Nosepass.png
+0300,Skitty,Normal,pokemon_images/0300_Skitty.png
+0301,Delcatty,Normal,pokemon_images/0301_Delcatty.png
+0302,Sableye,"Dark, Ghost",pokemon_images/0302_Sableye.png
+0303,Mawile,"Steel, Fairy",pokemon_images/0303_Mawile.png
+0304,Aron,"Steel, Rock",pokemon_images/0304_Aron.png
+0305,Lairon,"Steel, Rock",pokemon_images/0305_Lairon.png
+0306,Aggron,"Steel, Rock",pokemon_images/0306_Aggron.png
+0307,Meditite,"Fighting, Psychic",pokemon_images/0307_Meditite.png
+0308,Medicham,"Fighting, Psychic",pokemon_images/0308_Medicham.png
+0309,Electrike,Electric,pokemon_images/0309_Electrike.png
+0310,Manectric,Electric,pokemon_images/0310_Manectric.png
+0311,Plusle,Electric,pokemon_images/0311_Plusle.png
+0312,Minun,Electric,pokemon_images/0312_Minun.png
+0313,Volbeat,Bug,pokemon_images/0313_Volbeat.png
+0314,Illumise,Bug,pokemon_images/0314_Illumise.png
+0315,Roselia,"Grass, Poison",pokemon_images/0315_Roselia.png
+0316,Gulpin,Poison,pokemon_images/0316_Gulpin.png
+0317,Swalot,Poison,pokemon_images/0317_Swalot.png
+0318,Carvanha,"Water, Dark",pokemon_images/0318_Carvanha.png
+0319,Sharpedo,"Water, Dark",pokemon_images/0319_Sharpedo.png
+0320,Wailmer,Water,pokemon_images/0320_Wailmer.png
+0321,Wailord,Water,pokemon_images/0321_Wailord.png
+0322,Numel,"Fire, Ground",pokemon_images/0322_Numel.png
+0323,Camerupt,"Fire, Ground",pokemon_images/0323_Camerupt.png
+0324,Torkoal,Fire,pokemon_images/0324_Torkoal.png
+0325,Spoink,Psychic,pokemon_images/0325_Spoink.png
+0326,Grumpig,Psychic,pokemon_images/0326_Grumpig.png
+0327,Spinda,Normal,pokemon_images/0327_Spinda.png
+0328,Trapinch,Ground,pokemon_images/0328_Trapinch.png
+0329,Vibrava,"Ground, Dragon",pokemon_images/0329_Vibrava.png
+0330,Flygon,"Ground, Dragon",pokemon_images/0330_Flygon.png
+0331,Cacnea,Grass,pokemon_images/0331_Cacnea.png
+0332,Cacturne,"Grass, Dark",pokemon_images/0332_Cacturne.png
+0333,Swablu,"Normal, Flying",pokemon_images/0333_Swablu.png
+0334,Altaria,"Dragon, Flying",pokemon_images/0334_Altaria.png
+0335,Zangoose,Normal,pokemon_images/0335_Zangoose.png
+0336,Seviper,Poison,pokemon_images/0336_Seviper.png
+0337,Lunatone,"Rock, Psychic",pokemon_images/0337_Lunatone.png
+0338,Solrock,"Rock, Psychic",pokemon_images/0338_Solrock.png
+0339,Barboach,"Water, Ground",pokemon_images/0339_Barboach.png
+0340,Whiscash,"Water, Ground",pokemon_images/0340_Whiscash.png
+0341,Corphish,Water,pokemon_images/0341_Corphish.png
+0342,Crawdaunt,"Water, Dark",pokemon_images/0342_Crawdaunt.png
+0343,Baltoy,"Ground, Psychic",pokemon_images/0343_Baltoy.png
+0344,Claydol,"Ground, Psychic",pokemon_images/0344_Claydol.png
+0345,Lileep,"Rock, Grass",pokemon_images/0345_Lileep.png
+0346,Cradily,"Rock, Grass",pokemon_images/0346_Cradily.png
+0347,Anorith,"Rock, Bug",pokemon_images/0347_Anorith.png
+0348,Armaldo,"Rock, Bug",pokemon_images/0348_Armaldo.png
+0349,Feebas,Water,pokemon_images/0349_Feebas.png
+0350,Milotic,Water,pokemon_images/0350_Milotic.png
+0351,Castform,Normal,pokemon_images/0351_Castform.png
+0352,Kecleon,Normal,pokemon_images/0352_Kecleon.png
+0353,Shuppet,Ghost,pokemon_images/0353_Shuppet.png
+0354,Banette,Ghost,pokemon_images/0354_Banette.png
+0355,Duskull,Ghost,pokemon_images/0355_Duskull.png
+0356,Dusclops,Ghost,pokemon_images/0356_Dusclops.png
+0357,Tropius,"Grass, Flying",pokemon_images/0357_Tropius.png
+0358,Chimecho,Psychic,pokemon_images/0358_Chimecho.png
+0359,Absol,Dark,pokemon_images/0359_Absol.png
+0360,Wynaut,Psychic,pokemon_images/0360_Wynaut.png
+0361,Snorunt,Ice,pokemon_images/0361_Snorunt.png
+0362,Glalie,Ice,pokemon_images/0362_Glalie.png
+0363,Spheal,"Ice, Water",pokemon_images/0363_Spheal.png
+0364,Sealeo,"Ice, Water",pokemon_images/0364_Sealeo.png
+0365,Walrein,"Ice, Water",pokemon_images/0365_Walrein.png
+0366,Clamperl,Water,pokemon_images/0366_Clamperl.png
+0367,Huntail,Water,pokemon_images/0367_Huntail.png
+0368,Gorebyss,Water,pokemon_images/0368_Gorebyss.png
+0369,Relicanth,"Water, Rock",pokemon_images/0369_Relicanth.png
+0370,Luvdisc,Water,pokemon_images/0370_Luvdisc.png
+0371,Bagon,Dragon,pokemon_images/0371_Bagon.png
+0372,Shelgon,Dragon,pokemon_images/0372_Shelgon.png
+0373,Salamence,"Dragon, Flying",pokemon_images/0373_Salamence.png
+0374,Beldum,"Steel, Psychic",pokemon_images/0374_Beldum.png
+0375,Metang,"Steel, Psychic",pokemon_images/0375_Metang.png
+0376,Metagross,"Steel, Psychic",pokemon_images/0376_Metagross.png
+0377,Regirock,Rock,pokemon_images/0377_Regirock.png
+0378,Regice,Ice,pokemon_images/0378_Regice.png
+0379,Registeel,Steel,pokemon_images/0379_Registeel.png
+0380,Latias,"Dragon, Psychic",pokemon_images/0380_Latias.png
+0381,Latios,"Dragon, Psychic",pokemon_images/0381_Latios.png
+0382,Kyogre,Water,pokemon_images/0382_Kyogre.png
+0383,Groudon,Ground,pokemon_images/0383_Groudon.png
+0384,Rayquaza,"Dragon, Flying",pokemon_images/0384_Rayquaza.png
+0385,Jirachi,"Steel, Psychic",pokemon_images/0385_Jirachi.png
+0386,Deoxys-normal,Psychic,pokemon_images/0386_Deoxys-normal.png
+0387,Turtwig,Grass,pokemon_images/0387_Turtwig.png
+0388,Grotle,Grass,pokemon_images/0388_Grotle.png
+0389,Torterra,"Grass, Ground",pokemon_images/0389_Torterra.png
+0390,Chimchar,Fire,pokemon_images/0390_Chimchar.png
+0391,Monferno,"Fire, Fighting",pokemon_images/0391_Monferno.png
+0392,Infernape,"Fire, Fighting",pokemon_images/0392_Infernape.png
+0393,Piplup,Water,pokemon_images/0393_Piplup.png
+0394,Prinplup,Water,pokemon_images/0394_Prinplup.png
+0395,Empoleon,"Water, Steel",pokemon_images/0395_Empoleon.png
+0396,Starly,"Normal, Flying",pokemon_images/0396_Starly.png
+0397,Staravia,"Normal, Flying",pokemon_images/0397_Staravia.png
+0398,Staraptor,"Normal, Flying",pokemon_images/0398_Staraptor.png
+0399,Bidoof,Normal,pokemon_images/0399_Bidoof.png
+0400,Bibarel,"Normal, Water",pokemon_images/0400_Bibarel.png
+0401,Kricketot,Bug,pokemon_images/0401_Kricketot.png
+0402,Kricketune,Bug,pokemon_images/0402_Kricketune.png
+0403,Shinx,Electric,pokemon_images/0403_Shinx.png
+0404,Luxio,Electric,pokemon_images/0404_Luxio.png
+0405,Luxray,Electric,pokemon_images/0405_Luxray.png
+0406,Budew,"Grass, Poison",pokemon_images/0406_Budew.png
+0407,Roserade,"Grass, Poison",pokemon_images/0407_Roserade.png
+0408,Cranidos,Rock,pokemon_images/0408_Cranidos.png
+0409,Rampardos,Rock,pokemon_images/0409_Rampardos.png
+0410,Shieldon,"Rock, Steel",pokemon_images/0410_Shieldon.png
+0411,Bastiodon,"Rock, Steel",pokemon_images/0411_Bastiodon.png
+0412,Burmy,Bug,pokemon_images/0412_Burmy.png
+0413,Wormadam-plant,"Bug, Grass",pokemon_images/0413_Wormadam-plant.png
+0414,Mothim,"Bug, Flying",pokemon_images/0414_Mothim.png
+0415,Combee,"Bug, Flying",pokemon_images/0415_Combee.png
+0416,Vespiquen,"Bug, Flying",pokemon_images/0416_Vespiquen.png
+0417,Pachirisu,Electric,pokemon_images/0417_Pachirisu.png
+0418,Buizel,Water,pokemon_images/0418_Buizel.png
+0419,Floatzel,Water,pokemon_images/0419_Floatzel.png
+0420,Cherubi,Grass,pokemon_images/0420_Cherubi.png
+0421,Cherrim,Grass,pokemon_images/0421_Cherrim.png
+0422,Shellos,Water,pokemon_images/0422_Shellos.png
+0423,Gastrodon,"Water, Ground",pokemon_images/0423_Gastrodon.png
+0424,Ambipom,Normal,pokemon_images/0424_Ambipom.png
+0425,Drifloon,"Ghost, Flying",pokemon_images/0425_Drifloon.png
+0426,Drifblim,"Ghost, Flying",pokemon_images/0426_Drifblim.png
+0427,Buneary,Normal,pokemon_images/0427_Buneary.png
+0428,Lopunny,Normal,pokemon_images/0428_Lopunny.png
+0429,Mismagius,Ghost,pokemon_images/0429_Mismagius.png
+0430,Honchkrow,"Dark, Flying",pokemon_images/0430_Honchkrow.png
+0431,Glameow,Normal,pokemon_images/0431_Glameow.png
+0432,Purugly,Normal,pokemon_images/0432_Purugly.png
+0433,Chingling,Psychic,pokemon_images/0433_Chingling.png
+0434,Stunky,"Poison, Dark",pokemon_images/0434_Stunky.png
+0435,Skuntank,"Poison, Dark",pokemon_images/0435_Skuntank.png
+0436,Bronzor,"Steel, Psychic",pokemon_images/0436_Bronzor.png
+0437,Bronzong,"Steel, Psychic",pokemon_images/0437_Bronzong.png
+0438,Bonsly,Rock,pokemon_images/0438_Bonsly.png
+0439,Mime-jr,"Psychic, Fairy",pokemon_images/0439_Mime-jr.png
+0440,Happiny,Normal,pokemon_images/0440_Happiny.png
+0441,Chatot,"Normal, Flying",pokemon_images/0441_Chatot.png
+0442,Spiritomb,"Ghost, Dark",pokemon_images/0442_Spiritomb.png
+0443,Gible,"Dragon, Ground",pokemon_images/0443_Gible.png
+0444,Gabite,"Dragon, Ground",pokemon_images/0444_Gabite.png
+0445,Garchomp,"Dragon, Ground",pokemon_images/0445_Garchomp.png
+0446,Munchlax,Normal,pokemon_images/0446_Munchlax.png
+0447,Riolu,Fighting,pokemon_images/0447_Riolu.png
+0448,Lucario,"Fighting, Steel",pokemon_images/0448_Lucario.png
+0449,Hippopotas,Ground,pokemon_images/0449_Hippopotas.png
+0450,Hippowdon,Ground,pokemon_images/0450_Hippowdon.png
+0451,Skorupi,"Poison, Bug",pokemon_images/0451_Skorupi.png
+0452,Drapion,"Poison, Dark",pokemon_images/0452_Drapion.png
+0453,Croagunk,"Poison, Fighting",pokemon_images/0453_Croagunk.png
+0454,Toxicroak,"Poison, Fighting",pokemon_images/0454_Toxicroak.png
+0455,Carnivine,Grass,pokemon_images/0455_Carnivine.png
+0456,Finneon,Water,pokemon_images/0456_Finneon.png
+0457,Lumineon,Water,pokemon_images/0457_Lumineon.png
+0458,Mantyke,"Water, Flying",pokemon_images/0458_Mantyke.png
+0459,Snover,"Grass, Ice",pokemon_images/0459_Snover.png
+0460,Abomasnow,"Grass, Ice",pokemon_images/0460_Abomasnow.png
+0461,Weavile,"Dark, Ice",pokemon_images/0461_Weavile.png
+0462,Magnezone,"Electric, Steel",pokemon_images/0462_Magnezone.png
+0463,Lickilicky,Normal,pokemon_images/0463_Lickilicky.png
+0464,Rhyperior,"Ground, Rock",pokemon_images/0464_Rhyperior.png
+0465,Tangrowth,Grass,pokemon_images/0465_Tangrowth.png
+0466,Electivire,Electric,pokemon_images/0466_Electivire.png
+0467,Magmortar,Fire,pokemon_images/0467_Magmortar.png
+0468,Togekiss,"Fairy, Flying",pokemon_images/0468_Togekiss.png
+0469,Yanmega,"Bug, Flying",pokemon_images/0469_Yanmega.png
+0470,Leafeon,Grass,pokemon_images/0470_Leafeon.png
+0471,Glaceon,Ice,pokemon_images/0471_Glaceon.png
+0472,Gliscor,"Ground, Flying",pokemon_images/0472_Gliscor.png
+0473,Mamoswine,"Ice, Ground",pokemon_images/0473_Mamoswine.png
+0474,Porygon-z,Normal,pokemon_images/0474_Porygon-z.png
+0475,Gallade,"Psychic, Fighting",pokemon_images/0475_Gallade.png
+0476,Probopass,"Rock, Steel",pokemon_images/0476_Probopass.png
+0477,Dusknoir,Ghost,pokemon_images/0477_Dusknoir.png
+0478,Froslass,"Ice, Ghost",pokemon_images/0478_Froslass.png
+0479,Rotom,"Electric, Ghost",pokemon_images/0479_Rotom.png
+0480,Uxie,Psychic,pokemon_images/0480_Uxie.png
+0481,Mesprit,Psychic,pokemon_images/0481_Mesprit.png
+0482,Azelf,Psychic,pokemon_images/0482_Azelf.png
+0483,Dialga,"Steel, Dragon",pokemon_images/0483_Dialga.png
+0484,Palkia,"Water, Dragon",pokemon_images/0484_Palkia.png
+0485,Heatran,"Fire, Steel",pokemon_images/0485_Heatran.png
+0486,Regigigas,Normal,pokemon_images/0486_Regigigas.png
+0487,Giratina-altered,"Ghost, Dragon",pokemon_images/0487_Giratina-altered.png
+0488,Cresselia,Psychic,pokemon_images/0488_Cresselia.png
+0489,Phione,Water,pokemon_images/0489_Phione.png
+0490,Manaphy,Water,pokemon_images/0490_Manaphy.png
+0491,Darkrai,Dark,pokemon_images/0491_Darkrai.png
+0492,Shaymin-land,Grass,pokemon_images/0492_Shaymin-land.png
+0493,Arceus,Normal,pokemon_images/0493_Arceus.png
+0494,Victini,"Psychic, Fire",pokemon_images/0494_Victini.png
+0495,Snivy,Grass,pokemon_images/0495_Snivy.png
+0496,Servine,Grass,pokemon_images/0496_Servine.png
+0497,Serperior,Grass,pokemon_images/0497_Serperior.png
+0498,Tepig,Fire,pokemon_images/0498_Tepig.png
+0499,Pignite,"Fire, Fighting",pokemon_images/0499_Pignite.png
+0500,Emboar,"Fire, Fighting",pokemon_images/0500_Emboar.png
+0501,Oshawott,Water,pokemon_images/0501_Oshawott.png
+0502,Dewott,Water,pokemon_images/0502_Dewott.png
+0503,Samurott,Water,pokemon_images/0503_Samurott.png
+0504,Patrat,Normal,pokemon_images/0504_Patrat.png
+0505,Watchog,Normal,pokemon_images/0505_Watchog.png
+0506,Lillipup,Normal,pokemon_images/0506_Lillipup.png
+0507,Herdier,Normal,pokemon_images/0507_Herdier.png
+0508,Stoutland,Normal,pokemon_images/0508_Stoutland.png
+0509,Purrloin,Dark,pokemon_images/0509_Purrloin.png
+0510,Liepard,Dark,pokemon_images/0510_Liepard.png
+0511,Pansage,Grass,pokemon_images/0511_Pansage.png
+0512,Simisage,Grass,pokemon_images/0512_Simisage.png
+0513,Pansear,Fire,pokemon_images/0513_Pansear.png
+0514,Simisear,Fire,pokemon_images/0514_Simisear.png
+0515,Panpour,Water,pokemon_images/0515_Panpour.png
+0516,Simipour,Water,pokemon_images/0516_Simipour.png
+0517,Munna,Psychic,pokemon_images/0517_Munna.png
+0518,Musharna,Psychic,pokemon_images/0518_Musharna.png
+0519,Pidove,"Normal, Flying",pokemon_images/0519_Pidove.png
+0520,Tranquill,"Normal, Flying",pokemon_images/0520_Tranquill.png
+0521,Unfezant,"Normal, Flying",pokemon_images/0521_Unfezant.png
+0522,Blitzle,Electric,pokemon_images/0522_Blitzle.png
+0523,Zebstrika,Electric,pokemon_images/0523_Zebstrika.png
+0524,Roggenrola,Rock,pokemon_images/0524_Roggenrola.png
+0525,Boldore,Rock,pokemon_images/0525_Boldore.png
+0526,Gigalith,Rock,pokemon_images/0526_Gigalith.png
+0527,Woobat,"Psychic, Flying",pokemon_images/0527_Woobat.png
+0528,Swoobat,"Psychic, Flying",pokemon_images/0528_Swoobat.png
+0529,Drilbur,Ground,pokemon_images/0529_Drilbur.png
+0530,Excadrill,"Ground, Steel",pokemon_images/0530_Excadrill.png
+0531,Audino,Normal,pokemon_images/0531_Audino.png
+0532,Timburr,Fighting,pokemon_images/0532_Timburr.png
+0533,Gurdurr,Fighting,pokemon_images/0533_Gurdurr.png
+0534,Conkeldurr,Fighting,pokemon_images/0534_Conkeldurr.png
+0535,Tympole,Water,pokemon_images/0535_Tympole.png
+0536,Palpitoad,"Water, Ground",pokemon_images/0536_Palpitoad.png
+0537,Seismitoad,"Water, Ground",pokemon_images/0537_Seismitoad.png
+0538,Throh,Fighting,pokemon_images/0538_Throh.png
+0539,Sawk,Fighting,pokemon_images/0539_Sawk.png
+0540,Sewaddle,"Bug, Grass",pokemon_images/0540_Sewaddle.png
+0541,Swadloon,"Bug, Grass",pokemon_images/0541_Swadloon.png
+0542,Leavanny,"Bug, Grass",pokemon_images/0542_Leavanny.png
+0543,Venipede,"Bug, Poison",pokemon_images/0543_Venipede.png
+0544,Whirlipede,"Bug, Poison",pokemon_images/0544_Whirlipede.png
+0545,Scolipede,"Bug, Poison",pokemon_images/0545_Scolipede.png
+0546,Cottonee,"Grass, Fairy",pokemon_images/0546_Cottonee.png
+0547,Whimsicott,"Grass, Fairy",pokemon_images/0547_Whimsicott.png
+0548,Petilil,Grass,pokemon_images/0548_Petilil.png
+0549,Lilligant,Grass,pokemon_images/0549_Lilligant.png
+0550,Basculin-red-striped,Water,pokemon_images/0550_Basculin-red-striped.png
+0551,Sandile,"Ground, Dark",pokemon_images/0551_Sandile.png
+0552,Krokorok,"Ground, Dark",pokemon_images/0552_Krokorok.png
+0553,Krookodile,"Ground, Dark",pokemon_images/0553_Krookodile.png
+0554,Darumaka,Fire,pokemon_images/0554_Darumaka.png
+0555,Darmanitan-standard,Fire,pokemon_images/0555_Darmanitan-standard.png
+0556,Maractus,Grass,pokemon_images/0556_Maractus.png
+0557,Dwebble,"Bug, Rock",pokemon_images/0557_Dwebble.png
+0558,Crustle,"Bug, Rock",pokemon_images/0558_Crustle.png
+0559,Scraggy,"Dark, Fighting",pokemon_images/0559_Scraggy.png
+0560,Scrafty,"Dark, Fighting",pokemon_images/0560_Scrafty.png
+0561,Sigilyph,"Psychic, Flying",pokemon_images/0561_Sigilyph.png
+0562,Yamask,Ghost,pokemon_images/0562_Yamask.png
+0563,Cofagrigus,Ghost,pokemon_images/0563_Cofagrigus.png
+0564,Tirtouga,"Water, Rock",pokemon_images/0564_Tirtouga.png
+0565,Carracosta,"Water, Rock",pokemon_images/0565_Carracosta.png
+0566,Archen,"Rock, Flying",pokemon_images/0566_Archen.png
+0567,Archeops,"Rock, Flying",pokemon_images/0567_Archeops.png
+0568,Trubbish,Poison,pokemon_images/0568_Trubbish.png
+0569,Garbodor,Poison,pokemon_images/0569_Garbodor.png
+0570,Zorua,Dark,pokemon_images/0570_Zorua.png
+0571,Zoroark,Dark,pokemon_images/0571_Zoroark.png
+0572,Minccino,Normal,pokemon_images/0572_Minccino.png
+0573,Cinccino,Normal,pokemon_images/0573_Cinccino.png
+0574,Gothita,Psychic,pokemon_images/0574_Gothita.png
+0575,Gothorita,Psychic,pokemon_images/0575_Gothorita.png
+0576,Gothitelle,Psychic,pokemon_images/0576_Gothitelle.png
+0577,Solosis,Psychic,pokemon_images/0577_Solosis.png
+0578,Duosion,Psychic,pokemon_images/0578_Duosion.png
+0579,Reuniclus,Psychic,pokemon_images/0579_Reuniclus.png
+0580,Ducklett,"Water, Flying",pokemon_images/0580_Ducklett.png
+0581,Swanna,"Water, Flying",pokemon_images/0581_Swanna.png
+0582,Vanillite,Ice,pokemon_images/0582_Vanillite.png
+0583,Vanillish,Ice,pokemon_images/0583_Vanillish.png
+0584,Vanilluxe,Ice,pokemon_images/0584_Vanilluxe.png
+0585,Deerling,"Normal, Grass",pokemon_images/0585_Deerling.png
+0586,Sawsbuck,"Normal, Grass",pokemon_images/0586_Sawsbuck.png
+0587,Emolga,"Electric, Flying",pokemon_images/0587_Emolga.png
+0588,Karrablast,Bug,pokemon_images/0588_Karrablast.png
+0589,Escavalier,"Bug, Steel",pokemon_images/0589_Escavalier.png
+0590,Foongus,"Grass, Poison",pokemon_images/0590_Foongus.png
+0591,Amoonguss,"Grass, Poison",pokemon_images/0591_Amoonguss.png
+0592,Frillish-male,"Water, Ghost",pokemon_images/0592_Frillish-male.png
+0593,Jellicent-male,"Water, Ghost",pokemon_images/0593_Jellicent-male.png
+0594,Alomomola,Water,pokemon_images/0594_Alomomola.png
+0595,Joltik,"Bug, Electric",pokemon_images/0595_Joltik.png
+0596,Galvantula,"Bug, Electric",pokemon_images/0596_Galvantula.png
+0597,Ferroseed,"Grass, Steel",pokemon_images/0597_Ferroseed.png
+0598,Ferrothorn,"Grass, Steel",pokemon_images/0598_Ferrothorn.png
+0599,Klink,Steel,pokemon_images/0599_Klink.png
+0600,Klang,Steel,pokemon_images/0600_Klang.png
+0601,Klinklang,Steel,pokemon_images/0601_Klinklang.png
+0602,Tynamo,Electric,pokemon_images/0602_Tynamo.png
+0603,Eelektrik,Electric,pokemon_images/0603_Eelektrik.png
+0604,Eelektross,Electric,pokemon_images/0604_Eelektross.png
+0605,Elgyem,Psychic,pokemon_images/0605_Elgyem.png
+0606,Beheeyem,Psychic,pokemon_images/0606_Beheeyem.png
+0607,Litwick,"Ghost, Fire",pokemon_images/0607_Litwick.png
+0608,Lampent,"Ghost, Fire",pokemon_images/0608_Lampent.png
+0609,Chandelure,"Ghost, Fire",pokemon_images/0609_Chandelure.png
+0610,Axew,Dragon,pokemon_images/0610_Axew.png
+0611,Fraxure,Dragon,pokemon_images/0611_Fraxure.png
+0612,Haxorus,Dragon,pokemon_images/0612_Haxorus.png
+0613,Cubchoo,Ice,pokemon_images/0613_Cubchoo.png
+0614,Beartic,Ice,pokemon_images/0614_Beartic.png
+0615,Cryogonal,Ice,pokemon_images/0615_Cryogonal.png
+0616,Shelmet,Bug,pokemon_images/0616_Shelmet.png
+0617,Accelgor,Bug,pokemon_images/0617_Accelgor.png
+0618,Stunfisk,"Ground, Electric",pokemon_images/0618_Stunfisk.png
+0619,Mienfoo,Fighting,pokemon_images/0619_Mienfoo.png
+0620,Mienshao,Fighting,pokemon_images/0620_Mienshao.png
+0621,Druddigon,Dragon,pokemon_images/0621_Druddigon.png
+0622,Golett,"Ground, Ghost",pokemon_images/0622_Golett.png
+0623,Golurk,"Ground, Ghost",pokemon_images/0623_Golurk.png
+0624,Pawniard,"Dark, Steel",pokemon_images/0624_Pawniard.png
+0625,Bisharp,"Dark, Steel",pokemon_images/0625_Bisharp.png
+0626,Bouffalant,Normal,pokemon_images/0626_Bouffalant.png
+0627,Rufflet,"Normal, Flying",pokemon_images/0627_Rufflet.png
+0628,Braviary,"Normal, Flying",pokemon_images/0628_Braviary.png
+0629,Vullaby,"Dark, Flying",pokemon_images/0629_Vullaby.png
+0630,Mandibuzz,"Dark, Flying",pokemon_images/0630_Mandibuzz.png
+0631,Heatmor,Fire,pokemon_images/0631_Heatmor.png
+0632,Durant,"Bug, Steel",pokemon_images/0632_Durant.png
+0633,Deino,"Dark, Dragon",pokemon_images/0633_Deino.png
+0634,Zweilous,"Dark, Dragon",pokemon_images/0634_Zweilous.png
+0635,Hydreigon,"Dark, Dragon",pokemon_images/0635_Hydreigon.png
+0636,Larvesta,"Bug, Fire",pokemon_images/0636_Larvesta.png
+0637,Volcarona,"Bug, Fire",pokemon_images/0637_Volcarona.png
+0638,Cobalion,"Steel, Fighting",pokemon_images/0638_Cobalion.png
+0639,Terrakion,"Rock, Fighting",pokemon_images/0639_Terrakion.png
+0640,Virizion,"Grass, Fighting",pokemon_images/0640_Virizion.png
+0641,Tornadus-incarnate,Flying,pokemon_images/0641_Tornadus-incarnate.png
+0642,Thundurus-incarnate,"Electric, Flying",pokemon_images/0642_Thundurus-incarnate.png
+0643,Reshiram,"Dragon, Fire",pokemon_images/0643_Reshiram.png
+0644,Zekrom,"Dragon, Electric",pokemon_images/0644_Zekrom.png
+0645,Landorus-incarnate,"Ground, Flying",pokemon_images/0645_Landorus-incarnate.png
+0646,Kyurem,"Dragon, Ice",pokemon_images/0646_Kyurem.png
+0647,Keldeo-ordinary,"Water, Fighting",pokemon_images/0647_Keldeo-ordinary.png
+0648,Meloetta-aria,"Normal, Psychic",pokemon_images/0648_Meloetta-aria.png
+0649,Genesect,"Bug, Steel",pokemon_images/0649_Genesect.png
+0650,Chespin,Grass,pokemon_images/0650_Chespin.png
+0651,Quilladin,Grass,pokemon_images/0651_Quilladin.png
+0652,Chesnaught,"Grass, Fighting",pokemon_images/0652_Chesnaught.png
+0653,Fennekin,Fire,pokemon_images/0653_Fennekin.png
+0654,Braixen,Fire,pokemon_images/0654_Braixen.png
+0655,Delphox,"Fire, Psychic",pokemon_images/0655_Delphox.png
+0656,Froakie,Water,pokemon_images/0656_Froakie.png
+0657,Frogadier,Water,pokemon_images/0657_Frogadier.png
+0658,Greninja,"Water, Dark",pokemon_images/0658_Greninja.png
+0659,Bunnelby,Normal,pokemon_images/0659_Bunnelby.png
+0660,Diggersby,"Normal, Ground",pokemon_images/0660_Diggersby.png
+0661,Fletchling,"Normal, Flying",pokemon_images/0661_Fletchling.png
+0662,Fletchinder,"Fire, Flying",pokemon_images/0662_Fletchinder.png
+0663,Talonflame,"Fire, Flying",pokemon_images/0663_Talonflame.png
+0664,Scatterbug,Bug,pokemon_images/0664_Scatterbug.png
+0665,Spewpa,Bug,pokemon_images/0665_Spewpa.png
+0666,Vivillon,"Bug, Flying",pokemon_images/0666_Vivillon.png
+0667,Litleo,"Fire, Normal",pokemon_images/0667_Litleo.png
+0668,Pyroar-male,"Fire, Normal",pokemon_images/0668_Pyroar-male.png
+0669,Flabebe,Fairy,pokemon_images/0669_Flabebe.png
+0670,Floette,Fairy,pokemon_images/0670_Floette.png
+0671,Florges,Fairy,pokemon_images/0671_Florges.png
+0672,Skiddo,Grass,pokemon_images/0672_Skiddo.png
+0673,Gogoat,Grass,pokemon_images/0673_Gogoat.png
+0674,Pancham,Fighting,pokemon_images/0674_Pancham.png
+0675,Pangoro,"Fighting, Dark",pokemon_images/0675_Pangoro.png
+0676,Furfrou,Normal,pokemon_images/0676_Furfrou.png
+0677,Espurr,Psychic,pokemon_images/0677_Espurr.png
+0678,Meowstic-male,Psychic,pokemon_images/0678_Meowstic-male.png
+0679,Honedge,"Steel, Ghost",pokemon_images/0679_Honedge.png
+0680,Doublade,"Steel, Ghost",pokemon_images/0680_Doublade.png
+0681,Aegislash-shield,"Steel, Ghost",pokemon_images/0681_Aegislash-shield.png
+0682,Spritzee,Fairy,pokemon_images/0682_Spritzee.png
+0683,Aromatisse,Fairy,pokemon_images/0683_Aromatisse.png
+0684,Swirlix,Fairy,pokemon_images/0684_Swirlix.png
+0685,Slurpuff,Fairy,pokemon_images/0685_Slurpuff.png
+0686,Inkay,"Dark, Psychic",pokemon_images/0686_Inkay.png
+0687,Malamar,"Dark, Psychic",pokemon_images/0687_Malamar.png
+0688,Binacle,"Rock, Water",pokemon_images/0688_Binacle.png
+0689,Barbaracle,"Rock, Water",pokemon_images/0689_Barbaracle.png
+0690,Skrelp,"Poison, Water",pokemon_images/0690_Skrelp.png
+0691,Dragalge,"Poison, Dragon",pokemon_images/0691_Dragalge.png
+0692,Clauncher,Water,pokemon_images/0692_Clauncher.png
+0693,Clawitzer,Water,pokemon_images/0693_Clawitzer.png
+0694,Helioptile,"Electric, Normal",pokemon_images/0694_Helioptile.png
+0695,Heliolisk,"Electric, Normal",pokemon_images/0695_Heliolisk.png
+0696,Tyrunt,"Rock, Dragon",pokemon_images/0696_Tyrunt.png
+0697,Tyrantrum,"Rock, Dragon",pokemon_images/0697_Tyrantrum.png
+0698,Amaura,"Rock, Ice",pokemon_images/0698_Amaura.png
+0699,Aurorus,"Rock, Ice",pokemon_images/0699_Aurorus.png
+0700,Sylveon,Fairy,pokemon_images/0700_Sylveon.png
+0701,Hawlucha,"Fighting, Flying",pokemon_images/0701_Hawlucha.png
+0702,Dedenne,"Electric, Fairy",pokemon_images/0702_Dedenne.png
+0703,Carbink,"Rock, Fairy",pokemon_images/0703_Carbink.png
+0704,Goomy,Dragon,pokemon_images/0704_Goomy.png
+0705,Sliggoo,Dragon,pokemon_images/0705_Sliggoo.png
+0706,Goodra,Dragon,pokemon_images/0706_Goodra.png
+0707,Klefki,"Steel, Fairy",pokemon_images/0707_Klefki.png
+0708,Phantump,"Ghost, Grass",pokemon_images/0708_Phantump.png
+0709,Trevenant,"Ghost, Grass",pokemon_images/0709_Trevenant.png
+0710,Pumpkaboo-average,"Ghost, Grass",pokemon_images/0710_Pumpkaboo-average.png
+0711,Gourgeist-average,"Ghost, Grass",pokemon_images/0711_Gourgeist-average.png
+0712,Bergmite,Ice,pokemon_images/0712_Bergmite.png
+0713,Avalugg,Ice,pokemon_images/0713_Avalugg.png
+0714,Noibat,"Flying, Dragon",pokemon_images/0714_Noibat.png
+0715,Noivern,"Flying, Dragon",pokemon_images/0715_Noivern.png
+0716,Xerneas,Fairy,pokemon_images/0716_Xerneas.png
+0717,Yveltal,"Dark, Flying",pokemon_images/0717_Yveltal.png
+0718,Zygarde-50,"Dragon, Ground",pokemon_images/0718_Zygarde-50.png
+0719,Diancie,"Rock, Fairy",pokemon_images/0719_Diancie.png
+0720,Hoopa,"Psychic, Ghost",pokemon_images/0720_Hoopa.png
+0721,Volcanion,"Fire, Water",pokemon_images/0721_Volcanion.png
+0722,Rowlet,"Grass, Flying",pokemon_images/0722_Rowlet.png
+0723,Dartrix,"Grass, Flying",pokemon_images/0723_Dartrix.png
+0724,Decidueye,"Grass, Ghost",pokemon_images/0724_Decidueye.png
+0725,Litten,Fire,pokemon_images/0725_Litten.png
+0726,Torracat,Fire,pokemon_images/0726_Torracat.png
+0727,Incineroar,"Fire, Dark",pokemon_images/0727_Incineroar.png
+0728,Popplio,Water,pokemon_images/0728_Popplio.png
+0729,Brionne,Water,pokemon_images/0729_Brionne.png
+0730,Primarina,"Water, Fairy",pokemon_images/0730_Primarina.png
+0731,Pikipek,"Normal, Flying",pokemon_images/0731_Pikipek.png
+0732,Trumbeak,"Normal, Flying",pokemon_images/0732_Trumbeak.png
+0733,Toucannon,"Normal, Flying",pokemon_images/0733_Toucannon.png
+0734,Yungoos,Normal,pokemon_images/0734_Yungoos.png
+0735,Gumshoos,Normal,pokemon_images/0735_Gumshoos.png
+0736,Grubbin,Bug,pokemon_images/0736_Grubbin.png
+0737,Charjabug,"Bug, Electric",pokemon_images/0737_Charjabug.png
+0738,Vikavolt,"Bug, Electric",pokemon_images/0738_Vikavolt.png
+0739,Crabrawler,Fighting,pokemon_images/0739_Crabrawler.png
+0740,Crabominable,"Fighting, Ice",pokemon_images/0740_Crabominable.png
+0741,Oricorio-baile,"Fire, Flying",pokemon_images/0741_Oricorio-baile.png
+0742,Cutiefly,"Bug, Fairy",pokemon_images/0742_Cutiefly.png
+0743,Ribombee,"Bug, Fairy",pokemon_images/0743_Ribombee.png
+0744,Rockruff,Rock,pokemon_images/0744_Rockruff.png
+0745,Lycanroc-midday,Rock,pokemon_images/0745_Lycanroc-midday.png
+0746,Wishiwashi-solo,Water,pokemon_images/0746_Wishiwashi-solo.png
+0747,Mareanie,"Poison, Water",pokemon_images/0747_Mareanie.png
+0748,Toxapex,"Poison, Water",pokemon_images/0748_Toxapex.png
+0749,Mudbray,Ground,pokemon_images/0749_Mudbray.png
+0750,Mudsdale,Ground,pokemon_images/0750_Mudsdale.png
+0751,Dewpider,"Water, Bug",pokemon_images/0751_Dewpider.png
+0752,Araquanid,"Water, Bug",pokemon_images/0752_Araquanid.png
+0753,Fomantis,Grass,pokemon_images/0753_Fomantis.png
+0754,Lurantis,Grass,pokemon_images/0754_Lurantis.png
+0755,Morelull,"Grass, Fairy",pokemon_images/0755_Morelull.png
+0756,Shiinotic,"Grass, Fairy",pokemon_images/0756_Shiinotic.png
+0757,Salandit,"Poison, Fire",pokemon_images/0757_Salandit.png
+0758,Salazzle,"Poison, Fire",pokemon_images/0758_Salazzle.png
+0759,Stufful,"Normal, Fighting",pokemon_images/0759_Stufful.png
+0760,Bewear,"Normal, Fighting",pokemon_images/0760_Bewear.png
+0761,Bounsweet,Grass,pokemon_images/0761_Bounsweet.png
+0762,Steenee,Grass,pokemon_images/0762_Steenee.png
+0763,Tsareena,Grass,pokemon_images/0763_Tsareena.png
+0764,Comfey,Fairy,pokemon_images/0764_Comfey.png
+0765,Oranguru,"Normal, Psychic",pokemon_images/0765_Oranguru.png
+0766,Passimian,Fighting,pokemon_images/0766_Passimian.png
+0767,Wimpod,"Bug, Water",pokemon_images/0767_Wimpod.png
+0768,Golisopod,"Bug, Water",pokemon_images/0768_Golisopod.png
+0769,Sandygast,"Ghost, Ground",pokemon_images/0769_Sandygast.png
+0770,Palossand,"Ghost, Ground",pokemon_images/0770_Palossand.png
+0771,Pyukumuku,Water,pokemon_images/0771_Pyukumuku.png
+0772,Type-null,Normal,pokemon_images/0772_Type-null.png
+0773,Silvally,Normal,pokemon_images/0773_Silvally.png
+0774,Minior-red-meteor,"Rock, Flying",pokemon_images/0774_Minior-red-meteor.png
+0775,Komala,Normal,pokemon_images/0775_Komala.png
+0776,Turtonator,"Fire, Dragon",pokemon_images/0776_Turtonator.png
+0777,Togedemaru,"Electric, Steel",pokemon_images/0777_Togedemaru.png
+0778,Mimikyu-disguised,"Ghost, Fairy",pokemon_images/0778_Mimikyu-disguised.png
+0779,Bruxish,"Water, Psychic",pokemon_images/0779_Bruxish.png
+0780,Drampa,"Normal, Dragon",pokemon_images/0780_Drampa.png
+0781,Dhelmise,"Ghost, Grass",pokemon_images/0781_Dhelmise.png
+0782,Jangmo-o,Dragon,pokemon_images/0782_Jangmo-o.png
+0783,Hakamo-o,"Dragon, Fighting",pokemon_images/0783_Hakamo-o.png
+0784,Kommo-o,"Dragon, Fighting",pokemon_images/0784_Kommo-o.png
+0785,Tapu-koko,"Electric, Fairy",pokemon_images/0785_Tapu-koko.png
+0786,Tapu-lele,"Psychic, Fairy",pokemon_images/0786_Tapu-lele.png
+0787,Tapu-bulu,"Grass, Fairy",pokemon_images/0787_Tapu-bulu.png
+0788,Tapu-fini,"Water, Fairy",pokemon_images/0788_Tapu-fini.png
+0789,Cosmog,Psychic,pokemon_images/0789_Cosmog.png
+0790,Cosmoem,Psychic,pokemon_images/0790_Cosmoem.png
+0791,Solgaleo,"Psychic, Steel",pokemon_images/0791_Solgaleo.png
+0792,Lunala,"Psychic, Ghost",pokemon_images/0792_Lunala.png
+0793,Nihilego,"Rock, Poison",pokemon_images/0793_Nihilego.png
+0794,Buzzwole,"Bug, Fighting",pokemon_images/0794_Buzzwole.png
+0795,Pheromosa,"Bug, Fighting",pokemon_images/0795_Pheromosa.png
+0796,Xurkitree,Electric,pokemon_images/0796_Xurkitree.png
+0797,Celesteela,"Steel, Flying",pokemon_images/0797_Celesteela.png
+0798,Kartana,"Grass, Steel",pokemon_images/0798_Kartana.png
+0799,Guzzlord,"Dark, Dragon",pokemon_images/0799_Guzzlord.png
+0800,Necrozma,Psychic,pokemon_images/0800_Necrozma.png
+0801,Magearna,"Steel, Fairy",pokemon_images/0801_Magearna.png
+0802,Marshadow,"Fighting, Ghost",pokemon_images/0802_Marshadow.png
+0803,Poipole,Poison,pokemon_images/0803_Poipole.png
+0804,Naganadel,"Poison, Dragon",pokemon_images/0804_Naganadel.png
+0805,Stakataka,"Rock, Steel",pokemon_images/0805_Stakataka.png
+0806,Blacephalon,"Fire, Ghost",pokemon_images/0806_Blacephalon.png
+0807,Zeraora,Electric,pokemon_images/0807_Zeraora.png
+0808,Meltan,Steel,pokemon_images/0808_Meltan.png
+0809,Melmetal,Steel,pokemon_images/0809_Melmetal.png
+0810,Grookey,Grass,pokemon_images/0810_Grookey.png
+0811,Thwackey,Grass,pokemon_images/0811_Thwackey.png
+0812,Rillaboom,Grass,pokemon_images/0812_Rillaboom.png
+0813,Scorbunny,Fire,pokemon_images/0813_Scorbunny.png
+0814,Raboot,Fire,pokemon_images/0814_Raboot.png
+0815,Cinderace,Fire,pokemon_images/0815_Cinderace.png
+0816,Sobble,Water,pokemon_images/0816_Sobble.png
+0817,Drizzile,Water,pokemon_images/0817_Drizzile.png
+0818,Inteleon,Water,pokemon_images/0818_Inteleon.png
+0819,Skwovet,Normal,pokemon_images/0819_Skwovet.png
+0820,Greedent,Normal,pokemon_images/0820_Greedent.png
+0821,Rookidee,Flying,pokemon_images/0821_Rookidee.png
+0822,Corvisquire,Flying,pokemon_images/0822_Corvisquire.png
+0823,Corviknight,"Flying, Steel",pokemon_images/0823_Corviknight.png
+0824,Blipbug,Bug,pokemon_images/0824_Blipbug.png
+0825,Dottler,"Bug, Psychic",pokemon_images/0825_Dottler.png
+0826,Orbeetle,"Bug, Psychic",pokemon_images/0826_Orbeetle.png
+0827,Nickit,Dark,pokemon_images/0827_Nickit.png
+0828,Thievul,Dark,pokemon_images/0828_Thievul.png
+0829,Gossifleur,Grass,pokemon_images/0829_Gossifleur.png
+0830,Eldegoss,Grass,pokemon_images/0830_Eldegoss.png
+0831,Wooloo,Normal,pokemon_images/0831_Wooloo.png
+0832,Dubwool,Normal,pokemon_images/0832_Dubwool.png
+0833,Chewtle,Water,pokemon_images/0833_Chewtle.png
+0834,Drednaw,"Water, Rock",pokemon_images/0834_Drednaw.png
+0835,Yamper,Electric,pokemon_images/0835_Yamper.png
+0836,Boltund,Electric,pokemon_images/0836_Boltund.png
+0837,Rolycoly,Rock,pokemon_images/0837_Rolycoly.png
+0838,Carkol,"Rock, Fire",pokemon_images/0838_Carkol.png
+0839,Coalossal,"Rock, Fire",pokemon_images/0839_Coalossal.png
+0840,Applin,"Grass, Dragon",pokemon_images/0840_Applin.png
+0841,Flapple,"Grass, Dragon",pokemon_images/0841_Flapple.png
+0842,Appletun,"Grass, Dragon",pokemon_images/0842_Appletun.png
+0843,Silicobra,Ground,pokemon_images/0843_Silicobra.png
+0844,Sandaconda,Ground,pokemon_images/0844_Sandaconda.png
+0845,Cramorant,"Flying, Water",pokemon_images/0845_Cramorant.png
+0846,Arrokuda,Water,pokemon_images/0846_Arrokuda.png
+0847,Barraskewda,Water,pokemon_images/0847_Barraskewda.png
+0848,Toxel,"Electric, Poison",pokemon_images/0848_Toxel.png
+0849,Toxtricity-amped,"Electric, Poison",pokemon_images/0849_Toxtricity-amped.png
+0850,Sizzlipede,"Fire, Bug",pokemon_images/0850_Sizzlipede.png
+0851,Centiskorch,"Fire, Bug",pokemon_images/0851_Centiskorch.png
+0852,Clobbopus,Fighting,pokemon_images/0852_Clobbopus.png
+0853,Grapploct,Fighting,pokemon_images/0853_Grapploct.png
+0854,Sinistea,Ghost,pokemon_images/0854_Sinistea.png
+0855,Polteageist,Ghost,pokemon_images/0855_Polteageist.png
+0856,Hatenna,Psychic,pokemon_images/0856_Hatenna.png
+0857,Hattrem,Psychic,pokemon_images/0857_Hattrem.png
+0858,Hatterene,"Psychic, Fairy",pokemon_images/0858_Hatterene.png
+0859,Impidimp,"Dark, Fairy",pokemon_images/0859_Impidimp.png
+0860,Morgrem,"Dark, Fairy",pokemon_images/0860_Morgrem.png
+0861,Grimmsnarl,"Dark, Fairy",pokemon_images/0861_Grimmsnarl.png
+0862,Obstagoon,"Dark, Normal",pokemon_images/0862_Obstagoon.png
+0863,Perrserker,Steel,pokemon_images/0863_Perrserker.png
+0864,Cursola,Ghost,pokemon_images/0864_Cursola.png
+0865,Sirfetchd,Fighting,pokemon_images/0865_Sirfetchd.png
+0866,Mr-rime,"Ice, Psychic",pokemon_images/0866_Mr-rime.png
+0867,Runerigus,"Ground, Ghost",pokemon_images/0867_Runerigus.png
+0868,Milcery,Fairy,pokemon_images/0868_Milcery.png
+0869,Alcremie,Fairy,pokemon_images/0869_Alcremie.png
+0870,Falinks,Fighting,pokemon_images/0870_Falinks.png
+0871,Pincurchin,Electric,pokemon_images/0871_Pincurchin.png
+0872,Snom,"Ice, Bug",pokemon_images/0872_Snom.png
+0873,Frosmoth,"Ice, Bug",pokemon_images/0873_Frosmoth.png
+0874,Stonjourner,Rock,pokemon_images/0874_Stonjourner.png
+0875,Eiscue-ice,Ice,pokemon_images/0875_Eiscue-ice.png
+0876,Indeedee-male,"Psychic, Normal",pokemon_images/0876_Indeedee-male.png
+0877,Morpeko-full-belly,"Electric, Dark",pokemon_images/0877_Morpeko-full-belly.png
+0878,Cufant,Steel,pokemon_images/0878_Cufant.png
+0879,Copperajah,Steel,pokemon_images/0879_Copperajah.png
+0880,Dracozolt,"Electric, Dragon",pokemon_images/0880_Dracozolt.png
+0881,Arctozolt,"Electric, Ice",pokemon_images/0881_Arctozolt.png
+0882,Dracovish,"Water, Dragon",pokemon_images/0882_Dracovish.png
+0883,Arctovish,"Water, Ice",pokemon_images/0883_Arctovish.png
+0884,Duraludon,"Steel, Dragon",pokemon_images/0884_Duraludon.png
+0885,Dreepy,"Dragon, Ghost",pokemon_images/0885_Dreepy.png
+0886,Drakloak,"Dragon, Ghost",pokemon_images/0886_Drakloak.png
+0887,Dragapult,"Dragon, Ghost",pokemon_images/0887_Dragapult.png
+0888,Zacian,Fairy,pokemon_images/0888_Zacian.png
+0889,Zamazenta,Fighting,pokemon_images/0889_Zamazenta.png
+0890,Eternatus,"Poison, Dragon",pokemon_images/0890_Eternatus.png
+0891,Kubfu,Fighting,pokemon_images/0891_Kubfu.png
+0892,Urshifu-single-strike,"Fighting, Dark",pokemon_images/0892_Urshifu-single-strike.png
+0893,Zarude,"Dark, Grass",pokemon_images/0893_Zarude.png
+0894,Regieleki,Electric,pokemon_images/0894_Regieleki.png
+0895,Regidrago,Dragon,pokemon_images/0895_Regidrago.png
+0896,Glastrier,Ice,pokemon_images/0896_Glastrier.png
+0897,Spectrier,Ghost,pokemon_images/0897_Spectrier.png
+0898,Calyrex,"Psychic, Grass",pokemon_images/0898_Calyrex.png
+0899,Wyrdeer,"Normal, Psychic",pokemon_images/0899_Wyrdeer.png
+0900,Kleavor,"Bug, Rock",pokemon_images/0900_Kleavor.png
+0901,Ursaluna,"Ground, Normal",pokemon_images/0901_Ursaluna.png
+0902,Basculegion-male,"Water, Ghost",pokemon_images/0902_Basculegion-male.png
+0903,Sneasler,"Fighting, Poison",pokemon_images/0903_Sneasler.png
+0904,Overqwil,"Dark, Poison",pokemon_images/0904_Overqwil.png
+0905,Enamorus-incarnate,"Fairy, Flying",pokemon_images/0905_Enamorus-incarnate.png
+0906,Sprigatito,Grass,pokemon_images/0906_Sprigatito.png
+0907,Floragato,Grass,pokemon_images/0907_Floragato.png
+0908,Meowscarada,"Grass, Dark",pokemon_images/0908_Meowscarada.png
+0909,Fuecoco,Fire,pokemon_images/0909_Fuecoco.png
+0910,Crocalor,Fire,pokemon_images/0910_Crocalor.png
+0911,Skeledirge,"Fire, Ghost",pokemon_images/0911_Skeledirge.png
+0912,Quaxly,Water,pokemon_images/0912_Quaxly.png
+0913,Quaxwell,Water,pokemon_images/0913_Quaxwell.png
+0914,Quaquaval,"Water, Fighting",pokemon_images/0914_Quaquaval.png
+0915,Lechonk,Normal,pokemon_images/0915_Lechonk.png
+0916,Oinkologne-male,Normal,pokemon_images/0916_Oinkologne-male.png
+0917,Tarountula,Bug,pokemon_images/0917_Tarountula.png
+0918,Spidops,Bug,pokemon_images/0918_Spidops.png
+0919,Nymble,Bug,pokemon_images/0919_Nymble.png
+0920,Lokix,"Bug, Dark",pokemon_images/0920_Lokix.png
+0921,Pawmi,Electric,pokemon_images/0921_Pawmi.png
+0922,Pawmo,"Electric, Fighting",pokemon_images/0922_Pawmo.png
+0923,Pawmot,"Electric, Fighting",pokemon_images/0923_Pawmot.png
+0924,Tandemaus,Normal,pokemon_images/0924_Tandemaus.png
+0925,Maushold-family-of-four,Normal,pokemon_images/0925_Maushold-family-of-four.png
+0926,Fidough,Fairy,pokemon_images/0926_Fidough.png
+0927,Dachsbun,Fairy,pokemon_images/0927_Dachsbun.png
+0928,Smoliv,"Grass, Normal",pokemon_images/0928_Smoliv.png
+0929,Dolliv,"Grass, Normal",pokemon_images/0929_Dolliv.png
+0930,Arboliva,"Grass, Normal",pokemon_images/0930_Arboliva.png
+0931,Squawkabilly-green-plumage,"Normal, Flying",pokemon_images/0931_Squawkabilly-green-plumage.png
+0932,Nacli,Rock,pokemon_images/0932_Nacli.png
+0933,Naclstack,Rock,pokemon_images/0933_Naclstack.png
+0934,Garganacl,Rock,pokemon_images/0934_Garganacl.png
+0935,Charcadet,Fire,pokemon_images/0935_Charcadet.png
+0936,Armarouge,"Fire, Psychic",pokemon_images/0936_Armarouge.png
+0937,Ceruledge,"Fire, Ghost",pokemon_images/0937_Ceruledge.png
+0938,Tadbulb,Electric,pokemon_images/0938_Tadbulb.png
+0939,Bellibolt,Electric,pokemon_images/0939_Bellibolt.png
+0940,Wattrel,"Electric, Flying",pokemon_images/0940_Wattrel.png
+0941,Kilowattrel,"Electric, Flying",pokemon_images/0941_Kilowattrel.png
+0942,Maschiff,Dark,pokemon_images/0942_Maschiff.png
+0943,Mabosstiff,Dark,pokemon_images/0943_Mabosstiff.png
+0944,Shroodle,"Poison, Normal",pokemon_images/0944_Shroodle.png
+0945,Grafaiai,"Poison, Normal",pokemon_images/0945_Grafaiai.png
+0946,Bramblin,"Grass, Ghost",pokemon_images/0946_Bramblin.png
+0947,Brambleghast,"Grass, Ghost",pokemon_images/0947_Brambleghast.png
+0948,Toedscool,"Ground, Grass",pokemon_images/0948_Toedscool.png
+0949,Toedscruel,"Ground, Grass",pokemon_images/0949_Toedscruel.png
+0950,Klawf,Rock,pokemon_images/0950_Klawf.png
+0951,Capsakid,Grass,pokemon_images/0951_Capsakid.png
+0952,Scovillain,"Grass, Fire",pokemon_images/0952_Scovillain.png
+0953,Rellor,Bug,pokemon_images/0953_Rellor.png
+0954,Rabsca,"Bug, Psychic",pokemon_images/0954_Rabsca.png
+0955,Flittle,Psychic,pokemon_images/0955_Flittle.png
+0956,Espathra,Psychic,pokemon_images/0956_Espathra.png
+0957,Tinkatink,"Fairy, Steel",pokemon_images/0957_Tinkatink.png
+0958,Tinkatuff,"Fairy, Steel",pokemon_images/0958_Tinkatuff.png
+0959,Tinkaton,"Fairy, Steel",pokemon_images/0959_Tinkaton.png
+0960,Wiglett,Water,pokemon_images/0960_Wiglett.png
+0961,Wugtrio,Water,pokemon_images/0961_Wugtrio.png
+0962,Bombirdier,"Flying, Dark",pokemon_images/0962_Bombirdier.png
+0963,Finizen,Water,pokemon_images/0963_Finizen.png
+0964,Palafin-zero,Water,pokemon_images/0964_Palafin-zero.png
+0965,Varoom,"Steel, Poison",pokemon_images/0965_Varoom.png
+0966,Revavroom,"Steel, Poison",pokemon_images/0966_Revavroom.png
+0967,Cyclizar,"Dragon, Normal",pokemon_images/0967_Cyclizar.png
+0968,Orthworm,Steel,pokemon_images/0968_Orthworm.png
+0969,Glimmet,"Rock, Poison",pokemon_images/0969_Glimmet.png
+0970,Glimmora,"Rock, Poison",pokemon_images/0970_Glimmora.png
+0971,Greavard,Ghost,pokemon_images/0971_Greavard.png
+0972,Houndstone,Ghost,pokemon_images/0972_Houndstone.png
+0973,Flamigo,"Flying, Fighting",pokemon_images/0973_Flamigo.png
+0974,Cetoddle,Ice,pokemon_images/0974_Cetoddle.png
+0975,Cetitan,Ice,pokemon_images/0975_Cetitan.png
+0976,Veluza,"Water, Psychic",pokemon_images/0976_Veluza.png
+0977,Dondozo,Water,pokemon_images/0977_Dondozo.png
+0978,Tatsugiri-curly,"Dragon, Water",pokemon_images/0978_Tatsugiri-curly.png
+0979,Annihilape,"Fighting, Ghost",pokemon_images/0979_Annihilape.png
+0980,Clodsire,"Poison, Ground",pokemon_images/0980_Clodsire.png
+0981,Farigiraf,"Normal, Psychic",pokemon_images/0981_Farigiraf.png
+0982,Dudunsparce-two-segment,Normal,pokemon_images/0982_Dudunsparce-two-segment.png
+0983,Kingambit,"Dark, Steel",pokemon_images/0983_Kingambit.png
+0984,Great-tusk,"Ground, Fighting",pokemon_images/0984_Great-tusk.png
+0985,Scream-tail,"Fairy, Psychic",pokemon_images/0985_Scream-tail.png
+0986,Brute-bonnet,"Grass, Dark",pokemon_images/0986_Brute-bonnet.png
+0987,Flutter-mane,"Ghost, Fairy",pokemon_images/0987_Flutter-mane.png
+0988,Slither-wing,"Bug, Fighting",pokemon_images/0988_Slither-wing.png
+0989,Sandy-shocks,"Electric, Ground",pokemon_images/0989_Sandy-shocks.png
+0990,Iron-treads,"Ground, Steel",pokemon_images/0990_Iron-treads.png
+0991,Iron-bundle,"Ice, Water",pokemon_images/0991_Iron-bundle.png
+0992,Iron-hands,"Fighting, Electric",pokemon_images/0992_Iron-hands.png
+0993,Iron-jugulis,"Dark, Flying",pokemon_images/0993_Iron-jugulis.png
+0994,Iron-moth,"Fire, Poison",pokemon_images/0994_Iron-moth.png
+0995,Iron-thorns,"Rock, Electric",pokemon_images/0995_Iron-thorns.png
+0996,Frigibax,"Dragon, Ice",pokemon_images/0996_Frigibax.png
+0997,Arctibax,"Dragon, Ice",pokemon_images/0997_Arctibax.png
+0998,Baxcalibur,"Dragon, Ice",pokemon_images/0998_Baxcalibur.png
+0999,Gimmighoul,Ghost,pokemon_images/0999_Gimmighoul.png
+1000,Gholdengo,"Steel, Ghost",pokemon_images/1000_Gholdengo.png
+1001,Wo-chien,"Dark, Grass",pokemon_images/1001_Wo-chien.png
+1002,Chien-pao,"Dark, Ice",pokemon_images/1002_Chien-pao.png
+1003,Ting-lu,"Dark, Ground",pokemon_images/1003_Ting-lu.png
+1004,Chi-yu,"Dark, Fire",pokemon_images/1004_Chi-yu.png
+1005,Roaring-moon,"Dragon, Dark",pokemon_images/1005_Roaring-moon.png
+1006,Iron-valiant,"Fairy, Fighting",pokemon_images/1006_Iron-valiant.png
+1007,Koraidon,"Fighting, Dragon",pokemon_images/1007_Koraidon.png
+1008,Miraidon,"Electric, Dragon",pokemon_images/1008_Miraidon.png
+1009,Walking-wake,"Water, Dragon",pokemon_images/1009_Walking-wake.png
+1010,Iron-leaves,"Grass, Psychic",pokemon_images/1010_Iron-leaves.png
+1011,Dipplin,"Grass, Dragon",pokemon_images/1011_Dipplin.png
+1012,Poltchageist,"Grass, Ghost",pokemon_images/1012_Poltchageist.png
+1013,Sinistcha,"Grass, Ghost",pokemon_images/1013_Sinistcha.png
+1014,Okidogi,"Poison, Fighting",pokemon_images/1014_Okidogi.png
+1015,Munkidori,"Poison, Psychic",pokemon_images/1015_Munkidori.png
+1016,Fezandipiti,"Poison, Fairy",pokemon_images/1016_Fezandipiti.png
+1017,Ogerpon,Grass,pokemon_images/1017_Ogerpon.png
+1018,Archaludon,"Steel, Dragon",pokemon_images/1018_Archaludon.png
+1019,Hydrapple,"Grass, Dragon",pokemon_images/1019_Hydrapple.png
+1020,Gouging-fire,"Fire, Dragon",pokemon_images/1020_Gouging-fire.png
+1021,Raging-bolt,"Electric, Dragon",pokemon_images/1021_Raging-bolt.png
+1022,Iron-boulder,"Rock, Psychic",pokemon_images/1022_Iron-boulder.png
+1023,Iron-crown,"Steel, Psychic",pokemon_images/1023_Iron-crown.png
+1024,Terapagos,Normal,pokemon_images/1024_Terapagos.png
+1025,Pecharunt,"Poison, Ghost",pokemon_images/1025_Pecharunt.png

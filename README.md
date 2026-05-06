@@ -18,6 +18,17 @@ El proyecto resuelve la falta de una herramienta que organice y asigne aleatoria
 *   **Filtro por Tipo**: Navegación a través de los 18 tipos elementales mediante parámetros de URL.
 *   **Simulación de Consola**: Interfaz interactiva que emula los controles de una GameBoy.
 
+**Botones:**
+*    **Flechas**: Moverse por el menú selección
+*    **Select**: Entrar al menú selección
+*    **Start**: Iniciar lista o reiniciarla
+*    **A**: Siguiente pokemon
+*    **B**: Anterior pokemon
+
+<img width="1366" height="720" alt="Screenshot 2026-05-06 074002" src="https://github.com/user-attachments/assets/15fa01dc-beb3-4838-85e4-79e9eabffd77" />
+<img width="1366" height="720" alt="Screenshot 2026-05-06 073937" src="https://github.com/user-attachments/assets/346af5a3-4c26-4fcc-9b47-fa0f1a2f65f7" />
+<img width="1366" height="720" alt="Screenshot 2026-05-06 074110" src="https://github.com/user-attachments/assets/3da43b5e-1556-48d0-987a-6c0586bcfe6c" />
+
 #### CRUD
 El sistema implementa un ciclo completo de gestión de datos (CRUD) sobre PostgreSQL:
 *   **Create**: Registro de nuevos Pokémon y usuarios artistas en la base de datos.
